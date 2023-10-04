@@ -1,4 +1,4 @@
-Example plugin
+FancyBox Gallery plugin
 ##################################
 
 Basic skeleton of the plugin with basic demonstration of the function.
