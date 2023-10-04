@@ -1,0 +1,13 @@
+div.example {
+    background-color: #ec8b5e;
+    border: 5px dashed #f00;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+div.example img {
+    cursor: pointer;
+    height: 80px;
+    width: 80px;
+}
